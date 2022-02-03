@@ -20,7 +20,6 @@ switchBtn.addEventListener('click', function (e) {
  });
 
 
-
 //preloader
 const preloader = document.querySelector('.preloader');
 window.addEventListener("load", function () {
