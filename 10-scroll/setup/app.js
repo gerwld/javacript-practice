@@ -62,6 +62,7 @@ scrollLinks.forEach(function (link) {
             position += contHeight;
         }
 
+        
         window.scrollTo({
             left: 0,
             top: position
